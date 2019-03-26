@@ -1,0 +1,2 @@
+2019-03-25 09:19:14,176 - testlogger - DEBUG - 123 - [study_logger.py:27]
+2019-03-25 09:19:14,222 - testlogger - WARNING - 456 - [study_logger.py:28]
